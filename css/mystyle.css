@@ -1,0 +1,14 @@
+.xyz{
+        color: green;
+        background-color: sienna !important;
+    }
+    .abc{
+        color: black;
+        background-color: green;
+        font-size: 60px;
+        font-style: italic;
+    }
+    #id{
+        color: blue;
+
+    }
